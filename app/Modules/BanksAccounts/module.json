@@ -1,0 +1,13 @@
+{
+    "name": "BanksAccounts",
+    "alias": "banks_accounts",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\BanksAccounts\\Providers\\BanksAccountsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

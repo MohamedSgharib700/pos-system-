@@ -1,0 +1,11 @@
+{
+    "Permission": true,
+    "Areas": true,
+    "Cities": true,
+    "Company": true,
+    "ServicesProviders": true,
+    "Banks": true,
+    "BanksAccounts": true,
+    "Commissions": true,
+    "Branch": true
+}

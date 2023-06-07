@@ -1,0 +1,21 @@
+{
+    "name": "rasid/banks",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mohamed Atef",
+            "email": "moatef2727@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Modules\\Banks\\": ""
+        }
+    }
+}

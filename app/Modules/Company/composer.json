@@ -1,0 +1,23 @@
+{
+    "name": "rasid/company",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mahmoud Shennawy",
+            "email": "shennawy@rasid.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Modules\\Company\\": ""
+        }
+    }
+}

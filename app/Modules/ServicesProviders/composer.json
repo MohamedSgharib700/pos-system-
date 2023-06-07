@@ -1,0 +1,25 @@
+{
+    "name": "rasid/servicesproviders",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mahmoud Shennawy",
+            "email": "shennawy@rasid.com"
+        },
+        {
+            "name": "Mohamed Atef",
+            "email": "matef@rasid.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Modules\\ServicesProviders\\": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ServicesProviders",
+    "alias": "servicesproviders",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\ServicesProviders\\Providers\\ServicesProvidersServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
